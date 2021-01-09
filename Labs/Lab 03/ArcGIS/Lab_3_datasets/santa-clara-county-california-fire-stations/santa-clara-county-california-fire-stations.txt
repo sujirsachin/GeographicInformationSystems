@@ -1,0 +1,37 @@
+========================================================================
+ Santa Clara County, California Fire Stations
+------------------------------------------------------------------------
+ https://koordinates.com/layer/96575-santa-clara-county-california-fire-stations/
+========================================================================
+From: Santa Clara County, California
+
+Description:
+  THE GIS DATA IS PROVIDED "AS IS". THE COUNTY MAKES NO WARRANTIES, EXPRESS OR
+  IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OR MERCHANTABILITY
+  AND/OR FITNESS FOR A PARTICULAR PURPOSE, REGARDING THE ACCURACY, COMPLETENESS,
+  VALUE, QUALITY, VALIDITY, MERCHANTABILITY, SUITABILITY, AND CONDITION, OF THE
+  GIS DATA. USER'S OF COUNTY'S GIS DATA ARE HEREBY NOTIFIED THAT CURRENT PUBLIC
+  PRIMARY INFORMATION SOURCES SHOULD BE CONSULTED FOR VERIFICATION OF THE DATA AND
+  INFORMATION CONTAINED HEREIN. SINCE THE GIS DATA IS DYNAMIC, IT WILL BY ITS
+  NATURE BE INCONSISTENT WITH THE OFFICIAL COUNTY DATA. ANY USE OF COUNTY'S GIS
+  DATA WITHOUT CONSULTING OFFICIAL PUBLIC RECORDS FOR VERIFICATION IS DONE
+  EXCLUSIVELY AT THE RISK OF THE PARTY MAKING SUCH USE.
+  
+  © Santa Clara County Combined data (2012), All rights reserved
+
+Projection: NAD27
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 10 Sep 2018
+- reprojected from WGS 84 / Pseudo-Mercator to NAD27
+- converted by Koordinates to Shapefile on 05 Feb 2020 (reference #1792395)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+

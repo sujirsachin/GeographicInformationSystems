@@ -1,0 +1,27 @@
+========================================================================
+ Alameda County, CA Hospitals
+------------------------------------------------------------------------
+ https://koordinates.com/layer/97757-alameda-county-ca-hospitals/
+========================================================================
+From: Alameda County, California
+
+Description:
+  This layer is sourced from
+  [gis.acgov.org](http://gis.acgov.org/arcgis/rest/services/SitStat/Hospitals/MapServer?f=json).
+
+Projection: NAD27
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 20 Sep 2018
+- reprojected from NAD83 / California zone 3 (ftUS) to NAD27
+- converted by Koordinates to Shapefile on 05 Feb 2020 (reference #1792395)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
